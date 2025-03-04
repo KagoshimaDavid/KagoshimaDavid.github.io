@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cc69244.css",
-    "main.js": "/static/js/main.2785a1ed.js",
+    "main.css": "/static/css/main.0ca76fbb.css",
+    "main.js": "/static/js/main.f656df5e.js",
     "static/js/453.72555f6a.chunk.js": "/static/js/453.72555f6a.chunk.js",
-    "static/media/background.webp": "/static/media/background.af91c62be292b6237d4f.webp",
+    "static/media/intro2.mp4": "/static/media/intro2.b7cbb4e00e0f97d737b0.mp4",
+    "static/media/Resume.pdf": "/static/media/Resume.5f3ebad15eeee114aa34.pdf",
+    "static/media/uniqlo.png": "/static/media/uniqlo.2a2a9e017ba2279dc179.png",
+    "static/media/vik.png": "/static/media/vik.77c9e60ea56ade6c0407.png",
+    "static/media/patchsign.jpg": "/static/media/patchsign.bf95c756a10e1f387ddb.jpg",
+    "static/media/alliq.png": "/static/media/alliq.061a1c7f3cfd024d2db0.png",
     "static/media/avatar.png": "/static/media/avatar.a6ac0f291a727feb9b64.png",
+    "static/media/linola.png": "/static/media/linola.b81d37a66d5cb1e348e7.png",
+    "static/media/bridgebooks.png": "/static/media/bridgebooks.37e0918bea37980d9fa0.png",
     "index.html": "/index.html",
-    "main.6cc69244.css.map": "/static/css/main.6cc69244.css.map",
-    "main.2785a1ed.js.map": "/static/js/main.2785a1ed.js.map",
+    "main.0ca76fbb.css.map": "/static/css/main.0ca76fbb.css.map",
+    "main.f656df5e.js.map": "/static/js/main.f656df5e.js.map",
     "453.72555f6a.chunk.js.map": "/static/js/453.72555f6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cc69244.css",
-    "static/js/main.2785a1ed.js"
+    "static/css/main.0ca76fbb.css",
+    "static/js/main.f656df5e.js"
   ]
 }
